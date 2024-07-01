@@ -41,6 +41,4 @@ Feel free to reach out to me for job opportunities or commissions. I'm excited t
 
 Thank you for visiting my portfolio. Let's create something amazing together!
 
-🌐 **Follow Me:** [Instagram](https://www.instagram.com) | [LinkedIn](https://www.linkedin.com)
-
-📧 **Contact:** [your.email@example.com](mailto:your.email@example.com)
+📧 **Contact:** [theo@vorixa.co.uk](mailto:theo@vorixa.co.uk)
