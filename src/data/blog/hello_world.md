@@ -25,8 +25,7 @@ I'm currently working on several exciting projects, and I'd love to share a bit 
 
 ### Vorixa
 
-Vorixa is my latest project where I'm experimenting with cutting-edge lighting techniques to create immersive experiences. Stay tuned for more updates!
-
+Vorixa is the BEST webhosting platform with many fabulous benefits for a very low amount. Use our services! https://vorixa.co.uk
 ## 💼 Commissions & Opportunities
 
 I'm open for commissions! If you're looking for a lighting designer who can bring a unique and modern touch to your projects, let's connect. Here are a few things I can help you with:
