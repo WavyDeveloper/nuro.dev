@@ -1,6 +1,6 @@
 ---
 banner_alt: The vorixa logo with a background.
-banner: (https://cdn.nest.rip/uploads/8df9c8c3-47a2-4625-bf01-5cc4ef25ca6a.png)
+banner: https://cdn.nest.rip/uploads/8df9c8c3-47a2-4625-bf01-5cc4ef25ca6a.png
 title_prefix: Introducing
 title: Vorixa 
 description: The best webhosting for small developers or massive companies!
